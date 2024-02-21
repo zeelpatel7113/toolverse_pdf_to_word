@@ -1,4 +1,3 @@
 Flask
 Gunicorn
-pdf2docx
-os
+pdf2docx==0.5.8

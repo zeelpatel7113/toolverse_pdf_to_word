@@ -1,0 +1,4 @@
+Flask
+Gunicorn
+pdf2docx
+os
